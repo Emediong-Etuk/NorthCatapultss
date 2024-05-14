@@ -1,0 +1,162 @@
+
+
+.orangebg{
+    background-color: orangered;
+}
+
+.peach{
+    background-color:rgba(255,69,0,0.1);
+}
+
+.smallsize{
+    font-size: 10px;
+}
+
+.font-family-courier{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+
+.font-family-courier-light{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+.imagesize{
+    width:20px;
+    height: 15px;
+}
+
+.whitebackground{
+    background-color: white;
+    color: black !important;
+}
+
+.scrollbar{
+    max-height: 100px;
+    overflow-x: auto;
+}
+.scrollbar::-webkit-scrollbar-track{
+    background:white;
+}
+.scrollbar::-webkit-scrollbar-thumb{
+    background:white;
+}
+.scrollbar::-webkit-scrollbar-thumb:hover{
+    background:white;
+}
+
+.beach{
+    background-image:url("./img/Beach.jpeg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position: center;
+    position: relative;
+}
+
+.woman{
+    background-image:url("./img/woman.jpeg");
+    background-repeat:no-repeat;
+    background-size:contain;
+    background-position: center;
+    position: relative;
+}
+.lifeguard{
+    background-image:url("./img/lifeguard.jpeg");
+    background-repeat:no-repeat;
+    background-size:contain;
+    background-position: center;
+    position: relative;
+}
+.couple{
+    background-image:url("./img/couple.jpeg");
+    background-repeat:no-repeat;
+    background-size:contain;
+    background-position: center;
+    position: relative;
+}
+.map{
+    background-image:url("./img/map.jpeg");
+    background-repeat:no-repeat;
+    background-size:contain;
+    background-position: center;
+    position: relative;
+}
+.richman{
+    background-image:url("./img/richman.jpeg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position: center;
+    position: relative;
+}
+
+/* .lightblue{
+    background-color:rgba(0,0,255,0.2);
+} */
+
+.doc{
+    overflow-x:hidden;
+}
+
+
+
+
+
+
+.border-orange{
+    border: 2px solid orangered;
+}
+
+.border-radius{
+    border: 1px solid orangered;
+    border-top: none;
+}
+
+.border-black{
+    border: 2px solid black;
+    height: 30px;
+    width: 1px;
+}
+
+.black-border{
+    border: 2px solid black;
+}
+.white-border{
+    border: 2px solid white;
+}
+
+.button-width{
+    overflow: auto;
+   margin-left: 190px !important;
+}
+
+.circle{
+    border-radius: 50%;
+}
+.orangecolor{
+    color: orangered;
+}
+
+.orange-active:hover{
+    color: orangered;
+}
+
+.resize-text{
+    font-size: 12px !important;
+}
+.resize-texts{
+    font-size: 10px !important;
+}
+
+.peach{
+    background-color: rgba(255,69,0,0.2);
+}
+
+.darkblue{
+    color: rgba(0,0,139,0.8);
+}
+
+
+
+
